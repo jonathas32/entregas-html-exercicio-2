@@ -1,4 +1,4 @@
-# 💻 Exercício 2 - HTML5
+# 💻 Prova Global (em dupla).
 
 ## 🎯 Objetivo
 Criar uma página simples em **HTML5** usando as **tags semânticas** e também **tags de mídia**.
